@@ -4,6 +4,7 @@ A sleek, glowing Magic 8-Ball implemented in HTML, CSS, and JavaScript.
 Originally inspired by my C# console version - now reborn for the web.
 
 
+👉 [Live demo with GitHub Pages](https://dude-romLeipzig.github.io/magic8ball)
 
 ## Features
 - Randomized answers: affirmative, neutral, or negative
